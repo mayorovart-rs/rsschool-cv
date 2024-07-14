@@ -1,4 +1,4 @@
-![avatar](https://photos.app.goo.gl/J6jhkF8tck2XLiDk6)
+![avatar](https://photos.google.com/share/AF1QipP1hq8rqOf5uppgYjDQHdYlDmByv3Xgyh7HpR-N77ZqUvwoAACO32WHBAQhHTDL8g/photo/AF1QipMDGF8_BnlEYNTSljAMt9NVVWn5QxWFllfh7a_t?key=WXdoQVppWmZ3M09UdlF0eGdZRmNva1lFLWRjaTJB)
 > ##### Artem Mayorov
 ---
 ## Contacts:
