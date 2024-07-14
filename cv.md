@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Insert Image Example</title>
-</head>
-<body>
-    <h1>My Image</h1>
-    <img src="https://ibb.co/1Z3ytgV" alt="avatar">
-</body>
-</html>
+<img src="https://ibb.co/1Z3ytgV" alt="avatar">
+
 ## Artem Mayorov
 ---
 > ## Contacts:
